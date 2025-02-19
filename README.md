@@ -24,7 +24,25 @@ Here are some ideas to get you started:
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ehdwn1991&theme=chartreuse-dark&hide_border=true" width=100% align="center"/>
 </a>
-<img src="https://github.com/ehdwn1991/ehdwn1991/blob/output/github-snake-dark.svg" width="100%">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ehdwn1991/ehdwn1991/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ehdwn1991/ehdwn1991/output/github-contribution-grid-snake.svg"
+    width="100%"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/ehdwn1991/ehdwn1991/output/github-contribution-grid-snake.svg"
+    width="100%"
+  />
+</picture>
+
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
 
